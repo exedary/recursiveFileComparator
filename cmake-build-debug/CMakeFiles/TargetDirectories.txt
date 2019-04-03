@@ -1,0 +1,3 @@
+/home/tim/projects/NPOWORLDTESTTASK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tim/projects/NPOWORLDTESTTASK/cmake-build-debug/CMakeFiles/NPOWORLDTESTTASK.dir
+/home/tim/projects/NPOWORLDTESTTASK/cmake-build-debug/CMakeFiles/edit_cache.dir

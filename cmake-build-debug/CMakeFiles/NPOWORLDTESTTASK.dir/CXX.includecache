@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tim/projects/NPOWORLDTESTTASK/src/PathReader.h
+experimental/filesystem
+-
+iostream
+-
+vector
+-
+
+/home/tim/projects/NPOWORLDTESTTASK/src/main.cpp
+iostream
+-
+fstream
+-
+cstring
+-
+PathReader.h
+/home/tim/projects/NPOWORLDTESTTASK/src/PathReader.h
+

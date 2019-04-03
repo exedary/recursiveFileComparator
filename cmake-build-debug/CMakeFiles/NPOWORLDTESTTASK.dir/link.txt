@@ -1,0 +1,1 @@
+/usr/bin/c++   -lstdc++fs -g   CMakeFiles/NPOWORLDTESTTASK.dir/src/main.cpp.o CMakeFiles/NPOWORLDTESTTASK.dir/src/PathReader.cpp.o CMakeFiles/NPOWORLDTESTTASK.dir/src/useless/FilePathReader.cpp.o  -o NPOWORLDTESTTASK -lstdc++fs 
